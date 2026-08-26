@@ -18,7 +18,7 @@ import numpy as np
 import pandas as pd
 import requests
 
-CONTACT = "signal-desk-student-project (your.email@example.com)"
+CONTACT = "Kilian (kilianwolfg@gmail.com)"
 HEADERS = {"User-Agent": CONTACT, "Accept-Encoding": "gzip, deflate"}
 TIMEOUT = 20
 
